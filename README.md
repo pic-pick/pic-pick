@@ -47,8 +47,8 @@
 ## 📫 Contact
 
 <p>
-  📧 이메일: your.email@example.com <br/>
-  🐱 GitHub: [@yourusername](https://github.com/yourusername)
+  📧 이메일: seunghwanoo@kakao.com <br/>
+  🐱 GitHub: [@OhSeungHwan](https://github.com/pic-pick)
 </p>
 
 ---
