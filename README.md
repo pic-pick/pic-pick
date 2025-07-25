@@ -1,38 +1,59 @@
-## 🙋‍♂️ 소개
+<h1 align="center">👋 안녕하세요! 반갑습니다 :)</h1>
+<p align="center">
+웹개발 풀스택을 공부 중인 대학생입니다.<br/>
+프론트와 백엔드를 모두 배우며 개발자로 성장하고 있어요.
+</p>
 
-- 🎓 현재 컴퓨터공학을 전공하고 있습니다.
-- 🌱 **웹 개발 풀스택 과정**을 학습 중입니다.
-- 🛠️ 사용 가능한 언어:
-  - `HTML`, `CSS`, `JavaScript`, `Java`, `Python`
-- 💻 간단한 프로젝트를 직접 만들어보며 실습하고 있습니다.
-- 🚀 배우는 과정에서 기록을 남기고 공유하려고 GitHub를 사용하고 있어요.
-
----
-
-## 🔍 언어 순위
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic-pick)](https://github.com/pic-pick/github-readme-stats)
-
----
-
-## 🔧 현재 배우고 있는 것
-
-- 웹 페이지 구조 및 스타일링 (HTML/CSS)
-- 동적인 기능 구현 (JavaScript)
-- Java 언어와 객체지향 활용
-- Python을 활용한 간단한 자동화
-- Git을 이용한 버전 관리
-- React.js를 이용한 프론트엔드 개발
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📘 앞으로 하고 싶은 것
+## 🧑‍💻 Profile
 
-- Node.js와 Express를 활용한 백엔드 구축
-- 개인 포트폴리오 사이트 제작
-- 팀 프로젝트 경험 쌓기
+- 🎓 **컴퓨터공학 전공 / 대학 재학 중**
+- 🌱 **웹 개발 풀스택 과정** 학습 중
+- 💬 사용하는 언어: `HTML`, `CSS`, `JavaScript`, `Java`, `Python`
+- 🛠️ GitHub를 통해 공부한 내용을 기록 중입니다
+- 📘 목표: **기초부터 탄탄한 개발자**로 성장하기
 
 ---
 
-> 🙇‍♂️ 아직은 많이 부족하지만, 하나씩 차근차근 쌓아가고 있어요.  
-> 앞으로 더 많은 프로젝트와 배움을 이 공간에 기록할 예정입니다.
+## ✍️ 현재 학습 중인 내용
+
+| 분야         | 학습 내용                                |
+|--------------|--------------------------------------------|
+| **프론트엔드** | HTML/CSS, JavaScript 기초, DOM 조작, 반응형 웹 |
+| **백엔드**     | Java 기본 문법, 클래스/객체지향 이해          |
+| **기타**      | Git & GitHub, 마크다운 문서 작성, 간단한 자동화 스크립트(Python) |
+
+---
+
+## 📌 앞으로 도전하고 싶은 것
+
+- ☑️ React.js와 컴포넌트 기반 개발
+- ☑️ Node.js & Express 서버 구축
+- ☑️ 포트폴리오 웹사이트 제작
+- ☑️ 실전 프로젝트 경험
+- ☑️ 블로그/SNS를 통한 개발 공유
+
+---
+
+## 📫 Contact
+
+<p>
+  📧 이메일: your.email@example.com <br/>
+  🐱 GitHub: [@yourusername](https://github.com/yourusername)
+</p>
+
+---
+
+<p align="center">
+  🌱 “지금은 배우는 단계지만, 매일 조금씩 성장하고 있어요.”<br/>
+  함께 성장하고 싶은 분들과 소통하며 배우고 싶습니다 :)
+</p>
