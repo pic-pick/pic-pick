@@ -28,5 +28,11 @@
 
 ---
 
+## 🔍 언어 순위
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic-pick)](https://github.com/pic-pick/github-readme-stats)
+
+---
+
 > 🙇‍♂️ 아직은 많이 부족하지만, 하나씩 차근차근 쌓아가고 있어요.  
 > 앞으로 더 많은 프로젝트와 배움을 이 공간에 기록할 예정입니다.
