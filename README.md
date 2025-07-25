@@ -9,6 +9,12 @@
 
 ---
 
+## 🔍 언어 순위
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic-pick)](https://github.com/pic-pick/github-readme-stats)
+
+---
+
 ## 🔧 현재 배우고 있는 것
 
 - 웹 페이지 구조 및 스타일링 (HTML/CSS)
@@ -25,12 +31,6 @@
 - Node.js와 Express를 활용한 백엔드 구축
 - 개인 포트폴리오 사이트 제작
 - 팀 프로젝트 경험 쌓기
-
----
-
-## 🔍 언어 순위
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pic-pick)](https://github.com/pic-pick/github-readme-stats)
 
 ---
 
