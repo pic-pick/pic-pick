@@ -1,8 +1,5 @@
-<h1 align="center">👋 안녕하세요! 반갑습니다 :)</h1>
-<p align="center">
-웹개발 풀스택을 공부 중인 대학생입니다.<br/>
-프론트와 백엔드를 모두 배우며 개발자로 성장하고 있어요.
-</p>
+<h1 align="center">SeungHwan GitHub</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -16,43 +13,39 @@
 
 ## 🧑‍💻 Profile
 
-- 🎓 **컴퓨터공학(인공지능융합학과) 전공**
-- 🌱 **웹 개발 풀스택 과정**
-- 💬 사용하는 언어: `HTML`, `CSS`, `JavaScript`, `Java`, `Python`
-- 🛠️ GitHub를 통해 공부한 내용을 기록 중입니다
-- 📘 목표: **기초부터 탄탄한 개발자**로 성장하기
+- **인공지능융합학과 전공**
+- **웹 개발 풀스택 과정**
+- 사용하는 언어: `HTML`, `CSS`, `JavaScript`, `Java`, `Python`
+- 프로젝트는 GitHub를 통해 기록 중입니다
+- 목표: **기초부터 탄탄한 개발자**로 성장하기
 
 ---
 
-## ✍️ 현재 학습 중인 내용
+## ✍️ skill
 
-| 분야         | 학습 내용                                |
+| 분야         | 내용                                |
 |--------------|--------------------------------------------|
-| **프론트엔드** | HTML/CSS, JavaScript 기초, DOM 조작, 반응형 웹, React.js |
-| **백엔드**     | Java 기본 문법, 클래스/객체지향 이해, Oracle SQL         |
-| **기타**      | Git & GitHub, 마크다운 문서 작성, 간단한 자동화 스크립트(Python) |
+| **프론트엔드** | React, HTML/CSS, JavaScript, DOM 조작, 반응형 웹|
+| **백엔드**     | Java 기본 문법, 클래스/객체지향 이해         |
+| **기타**      | Git & GitHub, Notion, Figma. 간단한 자동화 스크립트(Python) |
 
 ---
 
-## 📌 앞으로 도전하고 싶은 것
+## 📌 Project repo
+**리뷰 기반 스킨케어 추천 서비스**
 
-- ☑️ Node.js & Express 서버 구축
-- ☑️ 포트폴리오 웹사이트 제작
-- ☑️ 실전 프로젝트 경험
-- ☑️ 블로그/SNS를 통한 개발 공유
+| 담당   | 저장소 |
+|--------------|--------------------------------------------|
+| **프론트엔드 [마이페이지 전체]** | https://github.com/VenyVince/Re_View | 
 
 ---
 
 ## 📫 Contact
 
 <p>
-  📧 이메일: seunghwanoo@kakao.com <br/>
-  🐱 GitHub: [@OhSeungHwan](https://github.com/pic-pick)
+  이메일: seunghwanoo@kakao.com <br/>
+  GitHub: [@OhSeungHwan](https://github.com/pic-pick)
 </p>
 
 ---
 
-<p align="center">
-  🌱 “지금은 배우는 단계지만, 매일 조금씩 성장하고 있어요.”<br/>
-  함께 성장하고 싶은 분들과 소통하며 배우고 싶습니다 :)
-</p>
